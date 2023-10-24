@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gujarabhishek21" target="blank"><img src="https://img.shields.io/twitter/follow/@gujarabhishek21?logo=twitter&style=for-the-badge" alt="@gujarabhishek21" /></a> </p>
 
-- 🌱 I’m currently learning **React ,Ruby on Rails**
+- 🌱 I’m currently learning **React, Redux ,Ruby on Rails**
 
 - 📫 How to reach me **gujarabhishek777@gmail.com**
 
