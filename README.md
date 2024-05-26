@@ -88,7 +88,7 @@
   ## Github Stats  
   
   
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gujarabhishek777&" alt="gujarabhishek777" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gujarabhishek777&" alt="gujarabhishek777" /></p>
   
   <br/>  
   
