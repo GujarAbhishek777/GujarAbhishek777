@@ -88,9 +88,7 @@
   ## Github Stats  
   
   
-    <a href= 'https://github-readme-streak-stats.herokuapp.com/?user=gujarabhishek777&&theme=radical&hide_border=false' >
-    <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=gujarabhishek777&&theme=radical&hide_border=false"  height="190px" />
-    </a>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gujarabhishek777&" alt="gujarabhishek777" /></p>
   
   <br/>  
   
