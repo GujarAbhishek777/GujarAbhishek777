@@ -16,9 +16,9 @@
   
   - ⚡ Qualification: I am Bachelor Of Engineering Graduate => 2022  
     
-  ## [RESUME 🎯](/https://scalewithabhi.in/)
+  ## <a href="[https://reactjs.org/](https://scalewithabhi.in/)" target="_blank">[RESUME 🎯](/)</a>
    
-  ## [PORTFOLIO 🚀](/https://scalewithabhi.in/)
+  ## <a href="[https://reactjs.org/](https://scalewithabhi.in/)" target="_blank">[PORTFOLIO 🚀](/)</a> 
   <br/>
   
   
