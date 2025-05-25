@@ -16,9 +16,9 @@
   
   - ⚡ Qualification: I am Bachelor Of Engineering Graduate => 2022  
     
-  ## [RESUME 🎯](/)
+  ## [RESUME 🎯](/https://scalewithabhi.in/)
    
-  ## [PORTFOLIO 🚀](/)
+  ## [PORTFOLIO 🚀](/https://scalewithabhi.in/)
   <br/>
   
   
