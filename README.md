@@ -5,20 +5,20 @@
   ### <div align="center">I'm a Software Engineer and Web Developer. 👨‍💻</div>  
     
   
-  - 🔭 I’m currently working on React,Redux and Ruby On Rails
+  - 🔭 I’m currently working on Ruby On Rails, React, Redux, AWS and Mysql
     
   
   - 🌱 I’m currently learning Devops and System Design.
     
   
-  - ❓ Ask me about anything related to React , Ruby On Rails and AWS   
+  - ❓ Ask me about anything related to Ruby On Rails, React, Mysql and AWS   
     
   
   - ⚡ Qualification: I am Bachelor Of Engineering Graduate => 2022  
     
-  <a href="https://scalewithabhi.in/" target="_blank">[RESUME 🎯]</a>
+  <a href="https://scalewithabhi.in/" target="_blank">RESUME 🎯</a>
    
-  <a href="https://scalewithabhi.in/" target="_blank">[PORTFOLIO 🚀]</a> 
+  <a href="https://scalewithabhi.in/" target="_blank">PORTFOLIO 🚀</a> 
   <br/>
   
   
