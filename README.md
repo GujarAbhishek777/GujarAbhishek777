@@ -5,7 +5,7 @@
   ### <div align="center">I'm a Software Engineer and Web Developer. 👨‍💻</div>  
     
   
-  - 🔭 I’m currently working on Ruby On Rails, React, Redux, AWS and Mysql
+  - 🔭 I’m currently working on React, Node.JS , Ruby On Rails, Redux, AWS and Mysql
     
   
   - 🌱 I’m currently learning Devops and System Design.
